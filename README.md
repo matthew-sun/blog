@@ -12,4 +12,4 @@
 
 ## 关于作者
 
-14年毕业，南京人，呆过武汉，深圳，上海。目前在PPTV工作，曾经就职于腾讯。[更多信息……](http://www.fehouse.com/index.php/5.html)
+14年毕业，南京人。目前在上海PPTV工作，曾经就职于腾讯。[更多信息……](http://www.fehouse.com/index.php/5.html)
