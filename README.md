@@ -2,7 +2,7 @@
 
 ## 简介
 
-写博客以来做过几个的博客主题，但都不是很满意，所以想以一种最极简的方式来呈现内容，这里是 GitHub Issue ，希望你会喜欢。[点此阅读](https://github.com/matthew-sun/blog/issues)。
+博客内容以 GitHub Issue 呈现，希望你会喜欢。[点此阅读](https://github.com/matthew-sun/blog/issues)。
 
 ## 关于本博客
 
